@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Jordan Wetton",
+    "role": "Duty Manager",
+    "kit": "Mower 1, BC 1, MT 1, SOM 1",
+    "syear": "2018",
+    "active": "YES, Manager & Administration",
+    "img": "Jordz",
+    "email": "Jordz@podsmeadclearanceteam.co.uk"
+  },
+  {
+    "name": "Kane Matthews",
+    "role": "Duty Supervisor",
+    "kit": "Mower 4, BC 3, SOM 1",
+    "syear": "2020",
+    "active": "YES",
+    "img": "Kane",
+    "email": "KaneMatthews@podsmeadclearanceteam.co.uk"
+  },
+  {
+    "name": "Trei Wetton",
+    "role": "Supervisor",
+    "kit": "Mower 3, BC 3, SOM 1",
+    "syear": "2020",
+    "active": "YES",
+    "img": "Trei",
+    "email": "TreiWetton@podsmeadclearanceteam.co.uk"
+  },
+  {
+    "name": "Brandon Knight",
+    "role": "Supporting Assistant",
+    "kit": "Mower 2, BC 2, SOM 1",
+    "syear": "2018",
+    "active": "YES",
+    "img": "Brand",
+    "email": "BrandonKnight@podsmeadclearanceteam.co.uk"
+  },
+  {
+    "name": "Connor Burke",
+    "role": "Team Member",
+    "kit": "Mower 5",
+    "syear": "2019",
+    "active": "YES",
+    "img": "Con",
+    "email": "ConnorBurke@podsmeadclearanceteam.co.uk"
+  },
+  {
+    "name": "Podsmead Clearance Team",
+    "role": "Our Team",
+    "kit": "Mower 1 - 8, BC 1 - 3, SOM 1, MT 1 - 2",
+    "syear": "2018",
+    "active": "YES",
+    "img": "Splash",
+    "email": "help@podsmeadclearanceteam.co.uk"
+    }
+]
